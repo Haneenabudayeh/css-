@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## introduction to css
 
-You can use the [editor on GitHub](https://github.com/Haneenabudayeh/css-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### what css ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![css](https://www.w3schools.com/whatis/img_selector.gif)
 
-### Markdown
+A CSS rule consists of a selector and a declaration block:
+1. The selector points to the HTML element to style (h1).
+1. The declaration block (in curly braces) contains one or more declarations separated by semicolons.
+1. Each declaration includes a CSS property name and a value, separated by a colon.
+1. In the following example all <p> elements will be 32px wide, center-aligned, and with re
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Color:
+to write and select the colors you have 3 ways:
+* Name of the color
+* hex code
+* RGB values
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haneenabudayeh/css-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Using css color, you can change the color of specific parts in the webpage using different commands such as:
+- the background color
+- the font color…etc.
